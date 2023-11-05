@@ -57,7 +57,7 @@ flowchart TD
 In the first course of the Machine Learning Specialization, you will:
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
-* [Natural Language Processing with Classification and Vector Spaces](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+* [Natural Language Processing with Classification and Vector Spaces](https://github.com/ansariparvej/Natural_Language_Processing_Specialization_Coursera/tree/main/Course_1:%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 
 ### COURSE 2
 ### Natural Language Processing with Probabilistic Models
@@ -65,21 +65,21 @@ In the first course of the Machine Learning Specialization, you will:
 In the second course of the Machine Learning Specialization, you will:
 - Use dynamic programming, hidden Markov models, and word embeddings to implement autocorrect, autocomplete & identify part-of-speech tags for words.
 
-* [Natural Language Processing with Probabilistic Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+* [Natural Language Processing with Probabilistic Models](https://github.com/ansariparvej/Natural_Language_Processing_Specialization_Coursera/tree/main/Course_2:%20Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 
 ### COURSE 3
 ### Natural Language Processing with Sequence Models
 In the third course of the Machine Learning Specialization, you will:
 - Use recurrent neural networks, LSTMs, GRUs & Siamese networks in Trax for sentiment analysis, text generation & named entity recognition.
 
-* [Natural Language Processing with Sequence Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-3-Natural%20Language%20Processing%20with%20Sequence%20Models)
+* [Natural Language Processing with Sequence Models](https://github.com/ansariparvej/Natural_Language_Processing_Specialization_Coursera/tree/main/Course_3:%20Natural%20Language%20Processing%20with%20Sequence%20Models)
 
 ### COURSE 4
 ### Natural Language Processing with Attention Models
 In the forth course of the Machine Learning Specialization, you will:
 - Use encoder-decoder, causal, & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
 
-* [Natural Language Processing with Attention Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-4-Natural%20Language%20Processing%20with%20Attention%20Models)
+* [Natural Language Processing with Attention Models](https://github.com/ansariparvej/Natural_Language_Processing_Specialization_Coursera/tree/main/Course_4:%20Natural%20Language%20Processing%20with%20Attention%20Models)
 
 -------------------------------------------------------------------------------------------------------------
 
